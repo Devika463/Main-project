@@ -29,4 +29,4 @@ This project combines **Computer Vision**, **Gesture Recognition**, and **Voice 
 
 ---
 
-## 📂 Project Structure
+
