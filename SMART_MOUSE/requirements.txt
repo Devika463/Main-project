@@ -1,0 +1,11 @@
+django>=4.2
+opencv-python
+mediapipe
+pyautogui
+numpy
+speechrecognition
+pyttsx3
+pyaudio
+screen-brightness-control
+pycaw
+comtypes
